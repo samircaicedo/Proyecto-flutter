@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813671369027",
+    "project_id": "proyecto-samir-34010",
+    "storage_bucket": "proyecto-samir-34010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813671369027:android:abb33623354313a28447f6",
+        "android_client_info": {
+          "package_name": "com.tallersamir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813671369027-v5jb2uafg79r1f46ssidaf0osm4v3mje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5z8qEoQ1IPrFiEt022IP8ePj4hBwkrPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813671369027-v5jb2uafg79r1f46ssidaf0osm4v3mje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
